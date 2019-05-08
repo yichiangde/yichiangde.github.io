@@ -2190,7 +2190,7 @@ body {
   height: 100%;
   padding: 30px 30px;
   color: #ffffff;
-  background-color: #e4d295;
+  background-color: #ffffff;
   z-index: 1;
   margin: 0;
   text-align: center;
@@ -2229,6 +2229,10 @@ body {
   -moz-backface-visibility: visible;
   -webkit-backface-visibility: visible;
   backface-visibility: visible;
+}
+.cid-rpTbDCBo06 H4 {
+  text-align: center;
+  color: #232323;
 }
 .cid-rpTcfaSPLs {
   padding-top: 0px;
@@ -2279,7 +2283,7 @@ body {
   height: 100%;
   padding: 30px 30px;
   color: #ffffff;
-  background-color: #e4d295;
+  background-color: #ffffff;
   z-index: 1;
   margin: 0;
   text-align: center;
@@ -2318,6 +2322,9 @@ body {
   -moz-backface-visibility: visible;
   -webkit-backface-visibility: visible;
   backface-visibility: visible;
+}
+.cid-rpTcfaSPLs H4 {
+  color: #232323;
 }
 .cid-rpTcQ9p1rc {
   padding-top: 30px;
